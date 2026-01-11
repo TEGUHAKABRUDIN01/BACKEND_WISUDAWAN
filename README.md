@@ -1,6 +1,6 @@
 ﻿# BACKEND_WISUDAWAN
 
-1. ################ BUAT FILE .env ################
+1. ################ ################ ################ ################ BUAT FILE .env ################ ################ ################ ################ ################
 PORT=3000
 DB_HOST=localhost
 DB_USER=root
@@ -42,4 +42,5 @@ npm install
       <img width="563" height="563" alt="image" src="https://github.com/user-attachments/assets/9613d9a2-e2a1-41f2-8013-fb49c3ecfe3e" />
 
 - 
+
 
