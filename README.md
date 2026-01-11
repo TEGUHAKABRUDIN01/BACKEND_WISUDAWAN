@@ -1,15 +1,13 @@
 ﻿# BACKEND_WISUDAWAN
 
-1. ################ ################ ################ ################ BUAT FILE .env ################ ################ ################ ################ ################
-PORT=3000
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=your_password
-DB_NAME=your_db
+1. ################  BUAT FILE .env ################
+<img width="469" height="367" alt="image" src="https://github.com/user-attachments/assets/d398e46d-5104-4949-bea4-97fc294f072d" />
+
 
 
 2. ################ INSTALL NPM ################
-npm install
+<img width="1497" height="117" alt="image" src="https://github.com/user-attachments/assets/e0886a8a-1b97-4075-8e97-c8f2472baaa1" />
+
 
 ################ 🔥API ENDPOINT ################
 - AUTH REGISTRASI DAN LOGIN MAHASISWA ATAU WISUDWAN
@@ -42,5 +40,6 @@ npm install
       <img width="563" height="563" alt="image" src="https://github.com/user-attachments/assets/9613d9a2-e2a1-41f2-8013-fb49c3ecfe3e" />
 
 - 
+
 
 
